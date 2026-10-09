@@ -81,3 +81,24 @@ Complete:
 Commit and push your work.
 
 GitHub Actions will automatically grade your submission.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Figure and Figcaption</title>
+</head>
+<body>
+    <h2>HTML5 Figure Example</h2>
+
+    <figure>
+        <img src="nature.jpg"
+             alt="Beautiful Nature"
+             width="350"
+             height="200">
+
+        <figcaption>
+            Figure 1: Beautiful Natural Scenery
+        </figcaption>
+    </figure>
+
+</body>
+</html>
